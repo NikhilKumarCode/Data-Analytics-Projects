@@ -29,15 +29,15 @@ I'm passionate about transforming raw data into actionable business insights and
 
 ---
 
-## 📁 Projects
+## 📁 Projects 
 
 | Project | Status |
 |----------|--------|
-| 🏥 Healthcare Analytics | Coming Soon |
-| 💰 Finance Analytics | Coming Soon |
-| 🏦 Banking Analytics | Coming Soon |
-| 📈 Marketing Analytics | Coming Soon |
-| 🏨 Hospitality Analytics | Coming Soon |
+| 🏥 [Healthcare Analytics](https://github.com/NikhilKumarCode/Healthcare-Analytics) | ✅ Completed |
+| 🏦 [Bank Customer Churn Analysis](https://github.com/NikhilKumarCode/Bank-Customer-Churn-Analysis) | ✅ Completed |
+| 💰 Finance Analytics | 🔜 Planned |
+| 📈 Marketing Analytics | 🔜 Planned |
+| 🏨 Hospitality Analytics | 🔜 Planned |
 
 ---
 
