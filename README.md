@@ -35,6 +35,7 @@ I'm passionate about transforming raw data into actionable business insights and
 | 🏥 [Healthcare Analytics](https://github.com/NikhilKumarCode/Healthcare-Analytics) | ✅ Completed |
 | 🏦 [Bank Customer Churn Analysis](https://github.com/NikhilKumarCode/Bank-Customer-Churn-Analysis) | ✅ Completed |
 | 🏨 [Hotel Booking Analytics](https://github.com/NikhilKumarCode/Hotel-Booking-Analytics) | ✅ Completed |
+| 📊 [Hotel Booking Analytics (Excel)](https://github.com/NikhilKumarCode/Hotel-Booking-Analytics-Excel) | ✅ Completed |
 | 💰 Finance Analytics | 🔜 Planned |
 | 📈 Marketing Analytics | 🔜 Planned |
 
